@@ -27,4 +27,3 @@ LanguageDetails.propTypes = {
   list: PropTypes.arrayOf(PropTypes.string).isRequired,
   title: PropTypes.string.isRequired
 };
-

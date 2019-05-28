@@ -5,18 +5,18 @@ export const tags = {
     'Javascript',
     'ReactJS',
     'ReactNative',
-    'Redux',
-    'Webpack',
+    'dotnetcore',
     'Npm/Yarn',
     'Git',
     'C#',
     'ASP.NETMVC',
-    'PHP',
+    'Wordpress',
     'SOLID PRINCIPLES',
-    'XAMARIN',
+    'SQL',
+    'MongoDB',
     'LINQ',
-    'N-TIER ARCHITECTURE',
-    'SOA ARCHITECTURE']
+    'N-TIER ARCHITECTURE'
+  ]
 };
 
 export default tags;
