@@ -4,101 +4,63 @@ export const projects = {
   description: 'Projects, i have completed & attended are listed below. To get general information about private project or not-finished projects you can get in touch.',
   categories: [
     {
-      name: 'JotForm',
+      name: 'SOFTER SOURCE COMPANY',
       list: [{
-        url: 'https:////www.jotform.com/meet-jotform-4/',
-        title: 'Easiest Online Form Builder',
-        description: 'I am a member of the development team of JotForm\'s Form Builder. I used React / Redux /  Webpack / Socket.io. This is my favorite project.'
-      }, {
-        url: 'https:////www.jotform.com/cards/',
-        title: 'JotForm Cards',
-        description: 'JotForm Cards is a next generation web form type. I used React SSR / Vanilla JS / Webpack'
-      }, {
-        url: 'https:////www.jotform.com//products//pdf-editor//',
-        title: 'PDF Editor',
-        description: 'JotForm\'s PDF Editor allows you to create automated reports for your form submissions. It also lets you create Fillable Forms (Adobe interactive forms). React / Redux / Webpack'
+        url: 'http://xagan.net',
+        title: 'XAGAN - Real Estate Website',
+        description: 'I am a member of the development team of XAGAN\'s. I used ASP.Net MVC Framework with Razor View, Bootstrap, Jquery . This is startup projects like a batdongsan.com.vn.'
+      },
+      {
+        url: 'http://cydi.com',
+        title: 'CYDI - Challenger Website',
+        description: 'Project used Facebook API with Login and Vimeo API with video upload. Project help create and manager challenge between person with person or person with group! - Website used (C# / Web API / Bootstrap / Jquery)'
       }],
     },
     {
-      name: 'YD Software',
+      name: 'PATSOFT COMPANY',
       list: [{
-        url: 'http:////mavimasa.ankara.bel.tr',
-        title: 'Mavi Masa',
-        description: 'Ankara Metropolitan Municipality - Mavi Masa Project - Mobile Applications (C# / Oracle / Android SDK - Java / iOS SDK/ Web Services)'
-      },
-      {
-        url: 'http:////giris.odtuteknokent.com.tr',
-        title: 'TKBS',
-        description: 'METU Technopolis Information System ( C# / SQL Server / Xamarin / MongoDB / Web Services)'
-      },
-      {
-        url: 'http:////yfyi2.odtuteknokent.com.tr',
-        title: 'YFYI',
-        description: 'New Business New Ideas(YFYİ) Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////ggj.odtuteknokent.com.tr',
-        title: 'Global Game Jam',
-        description: 'Global Game Jam (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////atom.odtuteknokent.com.tr',
-        title: 'ATOM in Games',
-        description: 'ATOM Pre-Incubation Center (METU Technopolis) Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////sanayipolitikalari.sanayi.gov.tr',
-        title: 'Sanayi Politikalari Portali',
-        description: 'T.C. Industry Ministry Industrial Policies Portal ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////teknojump2.odtuteknokent.com.tr',
-        title: 'TeknoJUMP',
-        description: 'TeknoJUMP Entrepreneurship Acceleration Program Management System ( C# / SQL Server / Web Services)'
-      },
-      {
-        url: 'http:////bigg.odtuteknokent.com.tr',
-        title: 'TUBITAK BIGG / 1512',
-        description: 'TUBITAK Invidual Young Enterprise(BİGG/1512) Program Management System - METU ( C# / SQL Server / Web Services )'
-      },
-      {
-        url: 'http:////aosb.org.tr',
-        title: 'AOSB',
-        description: 'Ankara Chamber of Industry 1st Organized Industrial Zone Web Portal - Mobile Applications (C#, SQL Server, Android SDK - Java / iOS SDK / Web Services)'
-      },
-      {
-        url: '',
-        title: 'AMS App',
-        description: 'Central Bank of the Republic of Turkey (TCMB) Mobile Archive Management System ( Android SDK / Xamarin / Urovo SDK)'
-      },
-      {
-        url: 'http:////yee.org.tr',
-        title: 'YEE Z-BOOK',
-        description: 'Yunus Emre Institute Z-Book Education Platform (C#/ MongoDB/ SQLite, Web Services)'
-      },
-      {
-        url: 'http:////evdekiogretmen.bilfen.com',
-        title: 'Evdeki Ögretmen(Teacher at Home)',
-        description: 'Bilfen Evdeki Ogretmen Online Education System (C# / SQL Server / Web Services)'
+        url: 'https://card.starbucks.vn/',
+        title: 'Starbucks Reward V1',
+        description: 'The website  Starbucks Reward calculates points, accumulates points and receives gifts from reward points for Customer. Managing members, cards, e-mails. Combine amazone mail delivery system.  This is favorite project. Client Page Used (AngularJS) - Web API Used (ASP.net)'
+      },{
+        url: 'http://120.72.100.66/pat_skhdt2',
+        title: 'Ho Chi Minh City Department of Planning and Investment',
+        description: "In the 4.0 technology reform, the public investment capital management project of Ho Chi Minh City Department of Planning and Investment is one of the leading projects, helping investors to update progress, fast capital allocation.It's help experts update capital, manage projects, statistics, reports even when not available at the office. It's used (Ext.net/ Ext.js / Asp.net / Rezor View / SQL)"
+      },{
+        url: 'http://qlgs-skhdt.quangbinh.gov.vn',
+        title: 'Quang Binh Province Department of Planning and Investment',
+        description: "This is project like a Ho Chi Minh City Department of Planning and Investment Project. It's used (Ext.net/ Ext.js / Asp.net / Rezor View / SQL)"
+      },{
+        url: 'http://vinaone.patsoft.com.vn',
+        title: 'Vinaone Stell',
+        description: 'ERP system for Vinaone steel company (Long An province). Website used (Ext.net/ Ext.js / Asp.net / Rezor View / SQL)'
       }]
+    },
+    {
+      name: 'FREELANCER',
+      list: [{
+        url: 'https://zugi.dev',
+        title: 'Curriculum Vitae For Myself',
+        description: 'I am used Reactjs and dotnetcore.'
+      },
+      {
+        url: '#',
+        title: 'Real Estate Landing Page',
+        description: 'Some websites like: <a href="http://bietthuphuquoc.info">bietthuphuquoc.info</a>, <a href="http://shopvillas-bimgroup.com">shopvillas-bimgroup.com</a>, <a href="http://skyvillas-regentphuquoc.com">skyvillas-regentphuquoc.com</a>, <a href="https://zuginguyen.000webhostapp.com/">zuginguyen website/</a> ...! - Website used (Wordpress)'
+      }],
     },
     {
       name: 'Extracurricular Activities',
       list: [
         {
-          url: '',
-          title: 'Mobile Exam System',
-          description: 'A mobile exam project for a company written with Xamarin.Android, Laravel'
+          url: 'https://news.appota.com/vi/mobile-hackathon-2013-cu%E1%BB%99c-dua-phat-tri%E1%BB%83n-%E1%BB%A9ng-d%E1%BB%A5ng-mobile/',
+          title: 'Mobile Hackathon 2013',
+          description: 'Mobile application programming in 48 hours'
         },
         {
-          url: 'http:////www.karmer.hacettepe.edu.tr/hutest/',
-          title: 'RIASEC Student Career Profile',
-          description: 'Hacettepe University Career Development Application And Research Center Student Profile Application ( PHP(CI), MySQL, MongoDB)'
-        },
-        {
-          url: '',
-          title: 'Educational Mobile Game Framework',
-          description: 'A personal project for physical interactive mobile game development ( C#, Xamarin, Vuforia , OpenCV, MongoDB)'
+          url: '#',
+          title: 'School semester',
+          description: '4 real projects when participating in training at Aptech.'
         }
       ]
     }

@@ -4,36 +4,28 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Lead Software Developer',
-      company: 'JotForm',
-      description: 'I\'m working as a lead developer at JotForm Source team. We are creating some amazing features for JotForm!',
-      companyLink: 'http://jotform.com',
+      title: 'Fullstack Developer',
+      company: 'PATSOFT(Phuc An Thinh Software JSC)',
+      description: 'I\'m using ext.net Framework and working as a team B4U Cloud. I have participated in more than 4 projects.',
+      companyLink: 'http://patsoft.com.vn',
       companyShortDetail: '',
-      date: '2017.10 - Present'
+      date: '2016.11 - present'
     },
     {
-      title: 'Software Developer',
-      company: 'JotForm',
-      description: 'I\'m using ReactJS and working as a front-end developer to develop new features for JotForm.',
-      companyLink: 'http://jotform.com',
+      title: 'Wordpress Developer',
+      company: 'Freelandcer',
+      description: 'I create real estate website projects and ecommerce sites for individuals with Wordpress!',
+      companyLink: 'http://zugi.dev',
       companyShortDetail: '',
-      date: '2016.8 - 2017.10'
+      date: '2018 - present'
     },
     {
-      title: 'Full-Stack Developer',
-      company: 'YD Software',
-      description: 'I was using ASP.Net MVC Framework with N Tier Architecture to develop management systems, learning management systems & big data projects. And i was developing Android / IOS applications using Xamarin or NDK. You can see projects that I have completed for YD Software <a href=\'#projects\'>below.</a>',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012 - 2016.8'
-    },
-    {
-      title: 'Intern',
-      company: 'YD Software',
-      description: 'I was warming up with a Learning Management System including desktop and web apps.',
-      companyLink: 'http://ydyazilim.com',
-      companyShortDetail: 'ANKARA METU Technopolis(ODTU Teknokent)',
-      date: '2012.06 - 2012.10'
+      title: 'Fullstack Developer',
+      company: 'Softer Source',
+      description: 'I\'m working as a fullstack developer at XaGan and CYDI Team. We work at the startup team!',
+      companyLink: 'http://softersource.com',
+      companyShortDetail: '',
+      date: '2014.08 - 2016.11'
     }
   ]
 };

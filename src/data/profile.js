@@ -20,7 +20,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Pipes', 'Photography', 'Cooking', 'Sport', 'Game', 'Tech']
+    list: ['Photography', 'Cooking', 'Sport', 'Game', 'Technology']
   }
 };
 
